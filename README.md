@@ -6,8 +6,8 @@
 - 📫 Oportunidades / Networking
 
 <div>
-      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=toscanomatheus&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toscanomatheus&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+      <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=toscanomatheus&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toscanomatheus&theme=react&show_icons=true&hide_border=true&layout=compact"/>
  
 </div>
 
